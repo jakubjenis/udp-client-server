@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpServer", "UdpServer\UdpServer.csproj", "{55E557D5-1F07-4239-A276-C7B1A1C1BA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{7CD3D1E2-25E8-4411-85A6-9162345B0599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E557D5-1F07-4239-A276-C7B1A1C1BA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E557D5-1F07-4239-A276-C7B1A1C1BA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E557D5-1F07-4239-A276-C7B1A1C1BA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E557D5-1F07-4239-A276-C7B1A1C1BA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD3D1E2-25E8-4411-85A6-9162345B0599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD3D1E2-25E8-4411-85A6-9162345B0599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD3D1E2-25E8-4411-85A6-9162345B0599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD3D1E2-25E8-4411-85A6-9162345B0599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
